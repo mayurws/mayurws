@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayur
 - 👀 I’m interested in Backend Engineering
 - 🌱 I’m currently learning System Design / Microservices etc.
-- 📫 How to reach me : Email- mayurkumarbajaj@gmail.com
+- 📫 How to reach me : Email- mayurb@workspot.com
 
 <!---
 [comment]: # 💞️ I’m looking to collaborate on ...
